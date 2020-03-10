@@ -36,7 +36,6 @@
             <VisibilityPermissions>
                 <Visibility></Visibility>
             </VisibilityPermissions>
-            <ConfigurationTableDefinitions></ConfigurationTableDefinitions>
             <ConfigurationTables></ConfigurationTables>
             <ThingShape>
                 <PropertyDefinitions>

@@ -352,7 +352,6 @@
             <VisibilityPermissions>
                 <Visibility></Visibility>
             </VisibilityPermissions>
-            <ConfigurationTableDefinitions></ConfigurationTableDefinitions>
             <ConfigurationTables></ConfigurationTables>
             <PropertyBindings></PropertyBindings>
             <RemotePropertyBindings></RemotePropertyBindings>

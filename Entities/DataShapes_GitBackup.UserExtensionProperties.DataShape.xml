@@ -29,7 +29,6 @@
             <VisibilityPermissions>
                 <Visibility></Visibility>
             </VisibilityPermissions>
-            <ConfigurationTableDefinitions></ConfigurationTableDefinitions>
             <ConfigurationTables></ConfigurationTables>
             <FieldDefinitions>
                 <FieldDefinition

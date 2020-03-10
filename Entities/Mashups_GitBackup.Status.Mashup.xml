@@ -34,7 +34,6 @@
             <VisibilityPermissions>
                 <Visibility></Visibility>
             </VisibilityPermissions>
-            <ConfigurationTableDefinitions></ConfigurationTableDefinitions>
             <ConfigurationTables></ConfigurationTables>
             <ParameterDefinitions>
                 <FieldDefinition
@@ -1014,7 +1013,6 @@
             }
             ]]>
             </mashupContent>
-            <preview></preview>
         </Mashup>
     </Mashups>
 </Entities>

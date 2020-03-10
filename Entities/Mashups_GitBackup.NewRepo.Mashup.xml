@@ -34,12 +34,9 @@
             <VisibilityPermissions>
                 <Visibility></Visibility>
             </VisibilityPermissions>
-            <ConfigurationTableDefinitions></ConfigurationTableDefinitions>
             <ConfigurationTables></ConfigurationTables>
             <ParameterDefinitions>
                 <FieldDefinition
-                 aspect.bindingDirection="OUT"
-                 aspect.isMandatory="false"
                  aspect.ordinal="0"
                  baseType="STRING"
                  description=""
@@ -4886,7 +4883,6 @@
             }
             ]]>
             </mashupContent>
-            <preview></preview>
         </Mashup>
     </Mashups>
 </Entities>
